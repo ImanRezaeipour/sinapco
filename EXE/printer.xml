@@ -1,0 +1,38 @@
+﻿<NewDataSet>
+  <xmlTable>
+    <xmlKey>CmbPrinters</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">ZDesigner ZM600 200 dpi (ZPL)</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>CmbPrintersOrder</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">\\server\HP LaserJet Professional P1102</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtOrderReport</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">C:\Users\user\Documents\Visual Studio 2008\Projects\DarooPakhsh_Office\DarooPakhsh_Office\bin\Debug\Order.rpt</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>CmbPrintersPack</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">\\NO210\HP LaserJet Professional P1102</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>CmbPrintersCarton</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">\\NO210\HP LaserJet Professional P1102</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>CmbPrintersPallet</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">\\NO210\HP LaserJet Professional P1102</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtLPack</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">E:\DarooPakhsh_Office\DarooPakhsh_Office\bin\Debug\Reports\LabelB.mrt</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtLCarton</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">E:\DarooPakhsh_Office\DarooPakhsh_Office\bin\Debug\Reports\LabelC.mrt</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtLPallet</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">E:\DarooPakhsh_Office\DarooPakhsh_Office\bin\Debug\Reports\LabelP.mrt</xmlValue>
+  </xmlTable>
+</NewDataSet>

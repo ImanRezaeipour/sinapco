@@ -1,0 +1,66 @@
+﻿<NewDataSet>
+  <xmlTable>
+    <xmlKey>TxtwebUsePass</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">daro$#@!</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>TxtWebUser</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Admin</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>rdoNetAddress</xmlKey>
+    <xmlValue xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">false</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>rdoWebServiceAddress</xmlKey>
+    <xmlValue xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">true</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtWebServiceAddress</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">http://91.98.131.226:8300/dpbarcodeproj/hhws.asmx</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtNetAddress</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtReport</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">E:\DarooPakhsh_Office\DarooPakhsh_Office\bin\Debug\Reports</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtCodeMarkaz</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">15</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtCodeDepot</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">001</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtReportPrinter</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Microsoft XPS Document Writer</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>TxtServer</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">localhost</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>RdoWinuser</xmlKey>
+    <xmlValue xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">false</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>RdoSqluser</xmlKey>
+    <xmlValue xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">true</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>TxtSqlUser</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">sa</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>TxtSqlUsePass</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Yahoo@747811040</xmlValue>
+  </xmlTable>
+  <xmlTable>
+    <xmlKey>txtDataBaseName</xmlKey>
+    <xmlValue xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">DP</xmlValue>
+  </xmlTable>
+</NewDataSet>
